@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[22],{488:function(t,a,e){"use strict";e.r(a);var r={name:"va-editor-case"},s=e(0),n=Object(s.a)(r,function(){var t=this.$createElement,a=this._self._c||t;return a("div",{staticClass:"va-page-box"},[a("va-row",[a("va-col",{attrs:{lg:12}},[a("va-card",{attrs:{header:"Editor"}},[a("va-editor",{attrs:{width:"100%"}})],1)],1)],1)],1)},[],!1,null,null,null);a.default=n.exports}}]);
-//# sourceMappingURL=22.5f2c204c4d8ecf50c4ea.chunk.js.map
